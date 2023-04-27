@@ -1,0 +1,15 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xarray
+  - netcdf4
+  - bottleneck
+  - zarr
+  - dask
+  - s3fs
+  - rechunker
+  - h5netcdf

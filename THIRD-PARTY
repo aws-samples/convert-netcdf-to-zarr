@@ -1,0 +1,28 @@
+The AWSConvertNetCDFtoZarr Product includes the following third-party software/licensing:
+
+--------------------------------------------------------------------------------
+
+** aws-cdk-lib - https://github.com/aws/aws-cdk/blob/main/LICENSE
+** constructs - https://github.com/aws/constructs/blob/10.x/LICENSE
+** xarray - https://github.com/pydata/xarray/blob/main/LICENSE
+
+Apache 2.0
+
+--------------------------------------------------------------------------------
+
+** dask - https://github.com/dask/dask/blob/main/LICENSE.txt
+** s3fs - https://github.com/fsspec/s3fs/blob/main/LICENSE.txt
+** hvplot - https://github.com/holoviz/hvplot/blob/main/LICENSE
+
+BSD 3-Clause "New" or "Revised" License
+
+--------------------------------------------------------------------------------
+
+** zarr - https://github.com/zarr-developers/zarr-python/blob/main/LICENSE.txt
+** rechunker - https://github.com/pangeo-data/rechunker/blob/master/LICENSE
+
+MIT License
+
+--------------------------------------------------------------------------------
+
+
