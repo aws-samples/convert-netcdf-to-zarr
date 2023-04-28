@@ -44,7 +44,7 @@ git clone https://github.com/aws-samples/convert-netcdf-to-zarr.git
 Change to the root directory of the repository.
 
 ```
-cd convert-to-zarr
+cd convert-netcdf-to-zarr
 ```
 
 ### Deploy the infrastructure
@@ -115,7 +115,7 @@ Clone the GitHub repository on the SageMaker instance and create the kernel for 
 7. Change to the notebooks directory within the repository:
 
     ```
-    cd convert-to-zarr/notebooks
+    cd convert-netcdf-to-zarr/notebooks
     ```
 
 8.	Finally, create the Jupyter kernel as a new conda environment.
