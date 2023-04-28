@@ -99,7 +99,7 @@ Clone the GitHub repository on the SageMaker instance and create the kernel for 
 
 1.	Log in to the AWS SageMaker console.
 2.	In the navigation pane, under Notebook, choose Notebook instances.
-3.	Find the Convert-To-Zarr-Notebook and select Open Jupyter.
+3.	Find the **Convert-To-Zarr-Notebook** and select Open Jupyter.
 4.	On the Jupyter home page, from the New menu at the top right select Terminal.
 5.	In the terminal, change to the SageMaker directory:
 
@@ -128,7 +128,7 @@ Clone the GitHub repository on the SageMaker instance and create the kernel for 
 
 ### Convert NetCDF to Zarr
 
-On the SageMaker instance, in the **convert-to-zarr/notebooks** folder, open **Convert-NetCDF-to-Zarr.ipynb**. Follow the steps in the notebook to convert NetCDF files to Zarr.
+On the SageMaker instance, in the **convert-netcdf-to-zarr/notebooks** folder, open **Convert-NetCDF-to-Zarr.ipynb**. Follow the steps in the notebook to convert NetCDF files to Zarr.
 
 ## Cleanup
 
